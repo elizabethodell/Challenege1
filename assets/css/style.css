@@ -77,6 +77,30 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.content-bio {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* created one css style for all content class images */
+.content img {
+    max-height: 200px;
+}
+
+/* created one css style for all content class h2 */
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .benefits {
@@ -102,41 +126,6 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* created one css style for all content class images */
-.content img {
-    max-height: 200px;
-}
-
-/* created one css style for all content class h2 */
-.content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /* FOOTER STYLES START */
