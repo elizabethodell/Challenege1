@@ -104,6 +104,10 @@ p {
     max-width: 150px;
 }
 
+.benefit-bio {
+    margin-bottom: 32px;
+}
+
 /*created search engine optimization, online reputation management, and social media marketing into one class content-bio*/
 .content-bio {
     margin-bottom: 20px;
